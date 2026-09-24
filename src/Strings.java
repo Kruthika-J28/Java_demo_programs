@@ -1,7 +1,7 @@
 import java.util.*;
-public class StringBuilder{
+public class Strings{
     public static void main(String args[]){
-        StringBuilder sb = new StringBuilder();
+        StringBuilder sb = new StringBuilder("Tony");
         System.out.println(sb);
         //char at index 0
 
